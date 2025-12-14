@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Path of the C Senseis": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
